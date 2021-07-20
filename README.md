@@ -1,3 +1,3 @@
-### Mokurenのフィードバックをお願いします!!
+### Please give us feedback on Mokuren!
 
-[New Issue](https://github.com/tinp-lab/Mokuren-feedback/issues/new/choose) から機能要望・バグ報告をお願いします
+Please submit feature requests and bug reports from [here](https://github.com/tinp-lab/Mokuren-feedback/issues/new/choose).
